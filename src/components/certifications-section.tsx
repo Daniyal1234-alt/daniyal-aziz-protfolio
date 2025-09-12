@@ -14,7 +14,7 @@ const CertificationsSection = () => {
       title: "Python for Data Science, AI & Development",
       issuer: "IBM",
       issued: "Jul 2024",
-      skills: []
+      skills: ["Pandas", "Data Preprocessing", "Numpy", "AI Basics"]
     },
     {
       title: "Introduction to Cloud Computing",
