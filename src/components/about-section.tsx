@@ -17,7 +17,7 @@ const AboutSection = () => {
               <Card className="overflow-hidden shadow-card hover:shadow-lg transition-all duration-300 bg-gradient-card border-0">
                 <CardContent className="p-0">
                   <img 
-                    src="/lovable-uploads/5a229395-7337-4b61-b981-3095baea744e.png" 
+                    src="/daniyal-aziz-protfolio/lovable-uploads/5a229395-7337-4b61-b981-3095baea744e.png" 
                     alt="Daniyal Aziz - AI Automation Specialist"
                     className="w-full h-96 object-cover object-center"
                   />
