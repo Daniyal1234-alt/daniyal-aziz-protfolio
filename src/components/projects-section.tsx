@@ -18,10 +18,11 @@ const projects = [
     image: automationImage
   },
   {
-    title: "AI Resume Parser with LLM + RAG",
-    description: "An AI-powered resume parsing system using retrieval-augmented generation (RAG) and prompt engineering. It extracts structured JSON from PDF/DOCX resumes using LLMs and is fine-tuned for hiring accuracy.",
+    title: "AI Resume Parser with LLM",
+    description: "Developed an AI-powered resume parsing system that uses offline Large Language Models (LLMs) and prompt engineering to extract structured JSON data from resumes, fine-tuning the output for hiring accuracy.",
     technologies: ["Python", "FastAPI", "MongoDB", "PDFMiner", "Ollama", "OpenAI API"],
-    image: resumeParserImage
+    image: resumeParserImage,
+    liveUrl: "https://www.linkedin.com/feed/update/urn:li:activity:7371182359137779712/"
   },
   {
     title: "DrFaisalAziz.com - Appointment Website + Chatbot",
@@ -34,13 +35,15 @@ const projects = [
     title: "Metro Routing App",
     description: "A transit routing system for the Islamabad Metro Bus using geospatial mapping and shortest-path algorithms. It integrates interactive Leaflet.js maps and NetworkX for real-time route queries.",
     technologies: ["Python", "Dijkstra's Algorithm", "NetworkX", "Streamlit", "Leaflet.js", "QGIS"],
-    image: metroImage
+    image: metroImage,
+    liveUrl: "https://github.com/Daniyal1234-alt/Metro-Bus-Route-Planner.git"
   },
   {
     title: "NeuroEvolution-Based Autonomous Racing Agent",
     description: "A self-driving agent created using convolutional neural networks and genetic algorithms for the TORCS simulator. It combines neuroevolution with behavior cloning to learn optimal racing strategies and minimize lap times.",
     technologies: ["TORCS", "Python", "PyTorch", "Genetic Algorithms", "OpenCV"],
-    image: racingImage
+    image: racingImage,
+    liveUrl: "https://github.com/HamzaSidd17/TORCS-Autonomous-Driver-NeuroEvolution-Behaviour-Cloning.git"
   }
 ];
 
