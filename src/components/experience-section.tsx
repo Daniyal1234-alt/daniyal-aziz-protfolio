@@ -19,7 +19,7 @@ const ExperienceSection = () => {
       title: "AI Engineering Intern",
       company: "Chiro",
       dates: "Apr 2025 – September 2025",
-      description: "Developed a full-stack AI-driven hiring system using the MERN stack. Implemented offline LLMs for applicant ranking and enhanced resume parsing and RAG-based retrieval systems."
+      description: "Developed an AI-driven hiring system that uses offline LLMs (Gemma2, DeepSeekR1, Command-R, Llamma2) for applicant ranking. This system also enhances resume parsing and integrates with a MongoDB backend to streamline the hiring process."
     }
   ];
 
