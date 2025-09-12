@@ -17,7 +17,7 @@ const HeroSection = () => {
           <div className="space-y-8">
             <h1 className="text-4xl md:text-6xl font-bold text-foreground font-heading leading-tight">
               AI Automation Specialist &
-              <span className="bg-gradient-hero bg-clip-text text-transparent"> Prompt Engineer</span>
+              <span className="bg-gradient-hero bg-clip-text text-transparent"> AI Solutions</span>
             </h1>
             
             <p className="text-xl md:text-2xl text-muted-foreground max-w-3xl mx-auto leading-relaxed">

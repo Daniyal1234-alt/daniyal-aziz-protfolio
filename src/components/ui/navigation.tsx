@@ -30,7 +30,7 @@ const Navigation = () => {
             Daniyal Aziz
           </div>
           
-          <div className="hidden md:flex space-x-8">
+          <div className="hidden md:flex space-x-6">
             <Button 
               variant="ghost" 
               onClick={() => scrollToSection('home')}
@@ -47,6 +47,13 @@ const Navigation = () => {
             </Button>
             <Button 
               variant="ghost" 
+              onClick={() => scrollToSection('experience')}
+              className="hover:text-primary transition-colors"
+            >
+              Experience
+            </Button>
+            <Button 
+              variant="ghost" 
               onClick={() => scrollToSection('projects')}
               className="hover:text-primary transition-colors"
             >
@@ -54,10 +61,10 @@ const Navigation = () => {
             </Button>
             <Button 
               variant="ghost" 
-              onClick={() => scrollToSection('contact')}
+              onClick={() => scrollToSection('certifications')}
               className="hover:text-primary transition-colors"
             >
-              Contact
+              Certifications
             </Button>
           </div>
 

@@ -29,7 +29,7 @@ const AboutSection = () => {
             <div className="space-y-6">
               <div className="prose prose-lg text-muted-foreground">
                 <p className="text-lg leading-relaxed">
-                  I'm an experienced AI Automation Specialist and Prompt Engineer with a passion for creating 
+                  I'm an experienced AI Automation Specialist and AI Solutions Engineer with a passion for creating 
                   intelligent solutions that streamline workflows and drive innovation. My expertise lies in 
                   developing multi-layered automation architectures, implementing AI-powered systems, and 
                   optimizing business processes through cutting-edge technology.
