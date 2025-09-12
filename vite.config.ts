@@ -15,4 +15,6 @@ export default defineConfig(({ mode }) => ({
       "@": path.resolve(__dirname, "./src"),
     },
   },
+  // 👇 IMPORTANT for GitHub Pages
+  base: "/daniyal-aziz-protfolio/",
 }));
