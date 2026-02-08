@@ -11,9 +11,9 @@ const CVSection = () => {
             <h2 className="text-3xl md:text-4xl font-bold font-heading">
               My Resume
             </h2>
-            
+
             <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
-              Download my full curriculum vitae to learn more about my skills, experience, 
+              Download my full curriculum vitae to learn more about my skills, experience,
               and professional journey in AI automation and prompt engineering.
             </p>
 
@@ -22,7 +22,7 @@ const CVSection = () => {
                 <div className="w-16 h-16 mx-auto bg-primary/10 rounded-full flex items-center justify-center">
                   <FileText className="w-8 h-8 text-primary" />
                 </div>
-                
+
                 <div className="space-y-2">
                   <h3 className="text-xl font-semibold font-heading">
                     Curriculum Vitae
@@ -32,14 +32,14 @@ const CVSection = () => {
                   </p>
                 </div>
 
-                <Button 
-                  size="lg" 
+                <Button
+                  size="lg"
                   asChild
                   className="w-full bg-primary hover:bg-primary-hover text-primary-foreground gap-3 transition-all duration-300 hover:shadow-md"
                 >
-                  <a 
-                    href="https://drive.google.com/file/d/1EhUGoDuf3_Le6lx2msg3BhI9BDHjI6kM/view?usp=sharing" 
-                    target="_blank" 
+                  <a
+                    href="https://drive.google.com/file/d/1mF4fqygtJM7HVC3soUSDT2DDjkwD6Oyg/view?usp=sharing"
+                    target="_blank"
                     rel="noopener noreferrer"
                   >
                     <Download className="w-5 h-5" />
